@@ -1,0 +1,23 @@
+
+body {
+    background-color: black;
+  }
+.yellow{
+    font-size: 50px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+}
